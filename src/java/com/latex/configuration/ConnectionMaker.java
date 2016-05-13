@@ -8,7 +8,7 @@ import java.sql.*;
 public class ConnectionMaker {
     
     private static final String user_name = "root";
-    private static final String user_password = "lokendra";
+    private static final String user_password = "password";
     private static final String db_connection = "jdbc:mysql://localhost:3306/latex_database";
     private static final String db_driver = "com.mysql.jdbc.Driver";
     
